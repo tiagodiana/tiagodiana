@@ -10,12 +10,12 @@
 ![C Sharp](img/csharp_48x48.png) 
 ![Python](img/python_48x48.png) 
 ![HTML](img/html_48x48.png)
-![CSS](img/css_64x64.png)
+![CSS](img/css.png)
 ![Javascript](img/javascript_48x48.png)
 ![Angular](img/angular.png)
-![Docker](img/docker.png)
 ![MySql](img/mysql.png)
 ![Linux](img/linux.png)
+![Docker](img/docker.png)
 
 
  
