@@ -12,6 +12,10 @@
 ![HTML](img/html_48x48.png)
 ![CSS](img/css_64x64.png)
 ![Javascript](img/javascript_48x48.png)
+![Angular](img/angular.png)
+![Docker](img/docker.png)
+![MySql](img/mysql.png)
+![Linux](img/linux.png)
 
 
  
