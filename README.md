@@ -13,6 +13,7 @@
 ![CSS](img/css.png)
 ![Javascript](img/javascript_48x48.png)
 ![Angular](img/angular.png)
+![Cordova](img/cordova.png)
 ![MySql](img/mysql.png)
 ![Linux](img/linux.png)
 ![Docker](img/docker.png)
