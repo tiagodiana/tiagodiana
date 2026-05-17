@@ -1,10 +1,10 @@
-### Hi there , Welcome!
+```
+Hi there , Welcome!
+I am a Full Stack developer.
+I love learning new technologies and being up to date with what I already know
+I am always looking to improve, what I know will never be enough. Knowledge is never too much!"
+```
 
-I'm a Full Stack developer.
-<br><br>
- I love learning new technologies and being up to date with what I already know.
- I'm always looking to improve, what I know will never be enough. Knowledge is never too much!
-<br><br>
 
 
 ```csharp
@@ -28,8 +28,11 @@ Last stacks of previous work:
 # C#, Cordova, CapacitorJS, Docker, React, React Native
 
 ```
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=tiagodiana&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagodiana&layout=compact&langs_count=8&theme=dark&custom_title=Minhas%20Linguagens" alt="Top Langs" height="170" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodiana&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-roberto-diana-838587191)](https://www.linkedin.com/in/tiago-roberto-diana-838587191) [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e8ef1?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/tiago.r.floyd/)](https://www.facebook.com/tiago.r.floyd/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-roberto-diana-838587191)](https://www.linkedin.com/in/tiago-roberto-diana-838587191) 
 ![GitHub followers](https://img.shields.io/github/followers/tiagodiana?style=social)
