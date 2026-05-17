@@ -1,8 +1,12 @@
 ```
 Hi there , Welcome!
+-------------------
+
 I am a Full Stack developer.
-I love learning new technologies and being up to date with what I already know
-I am always looking to improve, what I know will never be enough. Knowledge is never too much!"
+
+I love learning new technologies and being up to date with what I already know.
+
+I am always looking to improve, what I know will never be enough. Knowledge is never too much!
 ```
 
 
