@@ -29,7 +29,7 @@ Last stacks of previous work:
 
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodiana&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Tiago Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodiana&show_icons=true&theme=radical)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-roberto-diana-838587191)](https://www.linkedin.com/in/tiago-roberto-diana-838587191) [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e8ef1?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/tiago.r.floyd/)](https://www.facebook.com/tiago.r.floyd/) 
 ![GitHub followers](https://img.shields.io/github/followers/tiagodiana?style=social)
