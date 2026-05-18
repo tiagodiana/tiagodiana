@@ -1,4 +1,6 @@
-```
+# Tiago R. Diana
+
+```shell
 Hi there , Welcome!
 -------------------
 
@@ -9,11 +11,25 @@ I love learning new technologies and being up to date with what I already know.
 I am always looking to improve, what I know will never be enough. Knowledge is never too much!
 ```
 
+![Brasil](https://githubusercontent.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-roberto-diana-838587191)](https://www.linkedin.com/in/tiago-roberto-diana-838587191) 
+```shell
+
+Olá! Seja bem-vindo(a)!
+
+------------------
+
+Sou um desenvolvedor Full Stack.
+
+Adoro aprender novas tecnologias e me manter atualizado(a) com o que já sei.
+
+Estou sempre buscando aprimoramento, pois o que eu sei nunca será suficiente. Conhecimento nunca é demais!
+
+```
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-roberto-diana-838587191)](https://www.linkedin.com/in/tiago-roberto-diana-838587191)
 
 ![GitHub followers](https://img.shields.io/github/followers/tiagodiana?style=social)
-
 
 ```csharp
 tiagodiana@github
