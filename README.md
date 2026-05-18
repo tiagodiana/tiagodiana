@@ -1,6 +1,7 @@
 # Tiago R. Diana
 
 ```shell
+🇬🇧
 Hi there , Welcome!
 -------------------
 
@@ -11,17 +12,14 @@ I love learning new technologies and being up to date with what I already know.
 I am always looking to improve, what I know will never be enough. Knowledge is never too much!
 ```
 
-![Brasil](https://githubusercontent.com)
-
 ```shell
-
+🇧🇷
 Olá! Seja bem-vindo(a)!
-
-------------------
+-----------------------
 
 Sou um desenvolvedor Full Stack.
 
-Adoro aprender novas tecnologias e me manter atualizado(a) com o que já sei.
+Adoro aprender novas tecnologias e me manter atualizado com o que já sei.
 
 Estou sempre buscando aprimoramento, pois o que eu sei nunca será suficiente. Conhecimento nunca é demais!
 
