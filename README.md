@@ -68,7 +68,11 @@ Last stacks of previous work:
   <img src="https://img.shields.io/badge/Windows-0078D4?style=plastic&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/macOS_Sonoma-000000?style=plastic&logo=apple&logoColor=white" alt="macOS Sonoma" />
 </p>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=tiagodiana&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagodiana&layout=compact&langs_count=8&theme=dark&custom_title=Minhas%20Linguagens" alt="Top Langs" height="170" />
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tiagodiana)](https://github.com/stats-organization/github-stats-extended)
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=tiagodiana)](https://github.com/stats-organization/github-stats-extended)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagodiana&theme=dark" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=tiagodiana&theme=onedark" alt="Meus Troféus" />
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=tiagodiana&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=tiagodiana&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
